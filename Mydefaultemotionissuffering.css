@@ -74,12 +74,17 @@ img.Ew {
 }
 
 #main{
-    display: block;
     height: 1000px;
     width: 80%;
-    margin: 80px;
+    margin-left: 80px;
+    }
+#main2{
+    height: 1000px;
+    width: 85%;
+    margin-left: 80px;
 }
 #content {
+    display: block;
     float: left;
     height: 1000px;
     width: 50%;
