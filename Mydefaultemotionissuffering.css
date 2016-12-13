@@ -1,0 +1,118 @@
+div.container {
+    width: 100%
+        border: 1px solid grey;
+}
+h1 {
+    font-style: bold;
+    text-align: center;
+    text-decoration: underline;
+    color: darkslategray;
+
+}
+
+
+h2 {
+    font-style: normal;
+    text-align: left;
+    color: black;
+}     
+h3 {
+    font-style: normal;
+    text-align: left;
+    color: dimgrey;
+}
+
+
+li {
+    float: left;
+}
+
+
+article {
+    border: 1px solid black;
+    margin-right: 10px;
+}
+body {
+    background-color: lightgoldenrodyellow;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 100;
+    overflow: hidden;
+    background-color: #310;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: right;
+    padding: 20px 20px;
+    text-decoration: underline;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+img.Suffer {
+    display: block;
+    float: left;
+
+}
+
+img.Ew {
+    display: block;
+}
+
+#header{
+
+
+    height: 100px;
+    border: 1px solid black;
+}
+
+#main{
+    display: block;
+    height: 1000px;
+    width: 80%;
+    margin: 80px;
+}
+#content {
+    float: left;
+    height: 1000px;
+    width: 50%;
+    margin-left: 50px;
+
+}
+#sidebar{
+    float: right;
+    height: 700px;
+    width: 43%;
+}
+
+#video {
+    height: 40% 
+}
+
+#image {
+    height: 50%
+
+}
+
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
