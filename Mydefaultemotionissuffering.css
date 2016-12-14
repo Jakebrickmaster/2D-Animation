@@ -79,10 +79,18 @@ img.Ew {
     margin-left: 80px;
     }
 #main2{
-    height: 1000px;
+    float: left;
+    height: 500px;
     width: 85%;
-    margin-left: 80px;
+    margin-left: 50px;
 }
+
+#main3{
+    float: left;
+    height: 400px;
+    width: 85%;
+    margin-left: 50px;
+    }
 #content {
     display: block;
     float: left;
@@ -91,9 +99,22 @@ img.Ew {
     margin-left: 50px;
 
 }
+#content2 {
+     display: block;
+    float: left;
+    height: 500px;
+    width: 50%;
+    margin-left: 50px;
+}
 #sidebar{
     float: right;
     height: 700px;
+    width: 43%;
+}
+
+#sidebar2 {
+    float: right;
+    height: 100px;
     width: 43%;
 }
 
