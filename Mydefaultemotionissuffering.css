@@ -91,7 +91,7 @@ img.Work {
     }
 #main2{
     float: left;
-    height: 350px;
+    height: 320px;
     width: 100%;
 }
 
@@ -112,15 +112,15 @@ img.Work {
 #content2 {
      display: block;
     float: left;
-    height: 550px;
+    height: 420px;
     width: 50%;
     margin-left: 50px;
 }
 
 #content3 {
-     display: block;
+    display: block;
     float: left;
-    height: 350px;
+    height: 370px;
     width: 50%;
     margin-left: 50px;
 }
